@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Status](https://img.shields.io/badge/Project-Learning--in--Public-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # 📘 Python to Production — Core Python Fundamentals  
 ### *Everything you actually need for Data Science, Analytics, ML, and Production Systems*  
 By **Prerna Joshi** | #25DaysOfDataTech | #PythonToProduction  
