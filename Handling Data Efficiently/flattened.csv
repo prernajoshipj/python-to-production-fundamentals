@@ -1,0 +1,3 @@
+tx_amount,tx_ts,user
+120.0,2025-01-01,"{'name': 'Prerna', 'country': 'USA'}"
+199.5,2025-01-03,"{'name': 'Prerna', 'country': 'USA'}"

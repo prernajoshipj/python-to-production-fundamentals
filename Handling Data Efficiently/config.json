@@ -1,0 +1,10 @@
+{
+  "model": "xgboost",
+  "learning_rate": 0.05,
+  "features": [
+    "age",
+    "amount",
+    "balance"
+  ],
+  "threshold": 0.82
+}

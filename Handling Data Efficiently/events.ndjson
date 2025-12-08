@@ -1,0 +1,3 @@
+{"event": "login", "user": "alice", "ok": true}
+{"event": "update", "user": "bob", "ok": false, "reason": "denied"}
+{"event": "logout", "user": "alice", "ok": true}

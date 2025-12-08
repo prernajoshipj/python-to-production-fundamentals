@@ -1,0 +1,4 @@
+event,user,ok
+login,alice,True
+update,bob,False
+logout,alice,True
